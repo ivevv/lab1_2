@@ -1,0 +1,60 @@
+Ivanchuk Evgenia Vadimovna
+0
+None
+student
+1
+LETI
+Antipenkova Daria Andreevna
+1
+Using laser technology in space studies
+student
+1
+ITMO
+Zhernakova Anna Arsenievna
+1
+The japanese pleasure quarter Yoshiwara
+student
+1
+HSE
+Churovaya Polina Gennadievna
+0
+None
+bachelor
+1
+SPbPU
+Panchenko Tatiana Alexandrovna
+0
+None
+bachelor
+1
+Saint Petersburg State Institute of Technology
+Kovshova Anna Alexandrovna
+1
+Intertextuality in Pratchett's Discworld
+master
+0
+Moscow State University
+Ivanova Maria Vladimirovna
+0
+None
+student
+0
+Moscow State University
+Sinitsyn Vadim Evgenievich
+0
+None
+student
+1
+LETI
+Loseva Nadezhda Alexeevna
+0
+None
+student
+1
+LETI
+Zaviyalova Maria Grigorievna
+0
+None
+bachelor
+0
+Tokyo Designer Gakuin
