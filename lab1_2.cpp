@@ -164,7 +164,7 @@ string convert_month(string date)
 	return p_month;
 }
 
-//появляется лишняя строка при перезаписи
+//adds an extra line after the edited profile in the .txt file idk how to fix that
 void edit_data()
 {
 	ifstream database("students.txt");
